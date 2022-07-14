@@ -3,4 +3,4 @@
 int func(a,b){
   return (a*a)*(b*b);
 }
-void main() {print(func(2,3));}
+void main() {print(func(2,4));}
