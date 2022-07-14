@@ -3,4 +3,4 @@
 double func(a,b,c){
   return (2*(b*b)-a)/((a*a*a)-(c*c));
 }
-void main() {print(func(1,11,3));}
+void main() {print(func(1,12,3));}
