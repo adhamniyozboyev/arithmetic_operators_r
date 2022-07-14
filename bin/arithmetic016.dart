@@ -3,4 +3,4 @@
 double func(a,b){
 return -a/(2*b);
 }
-void main() {print(func(10,2));}
+void main() {print(func(8,2));}
